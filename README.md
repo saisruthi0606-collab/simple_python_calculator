@@ -21,4 +21,4 @@ A basic calculator built using Python.
 
 1. Clone the repository
    
-2. Run the file:
+2. Run the file
